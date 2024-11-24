@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+
+    <string name="login">Login</string>
+
+    <string name="info_otp_verification">OTP Verification</string>
+    <string name="info_otp_sent">Enter the OTP sent to </string>
+    <string name="info_otp_not_receive">Didn\'t receive OTP?</string>
+    <string name="info_phone_number">We will send otp to your entered mobile number.</string>
+    <string name="verify">Verify</string>
+    <string name="send_otp">SEND OTP</string>
+    <string name="signup_account">Didn\'t have an account?</string>
+    <string name="signup_account_info">Sign Up</string>
+    <string name="login_account">Already have an account?</string>
+    <string name="login_account_info">Log in</string>
+
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="signup">Signup</string>
+
+
+    <string name="certificate">Certificate</string>
+    <string name="profile">Profile</string>
+    <string name="chat">Chat</string>
+    <string name="score">Score</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_received_otp">Enter your received OTP here</string>
+    <string name="do_not_get_otp">Don\'t get the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <!--<string name="verify">VERIFY</string>-->
+
+    <string name="error_name">Please enter name</string>
+    <string name="error_email">Please enter valid email</string>
+    <string name="error_phone">Please enter valid phone number</string>
+    <string name="error_otp">Please enter valid OTP</string>
+    <string name="error_about">Please enter about yourself</string>
+
+    <string name="win_certificate">Win Certificate</string>
+    <string name="tell_me_about">Tell me About Yourself?</string>
+    <string name="submit">Submit</string>
+    <string name="type_here">type here...</string>
+
+</resources>

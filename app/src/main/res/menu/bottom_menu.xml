@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/certificate"
+        android:title="@string/certificate"
+        android:icon="@drawable/ic_menu_certificate"/>
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_menu_profile"/>
+    <!--<item
+        android:id="@+id/fab"
+        android:title=""
+        android:enabled="false"/>-->
+    <item
+        android:id="@+id/chat"
+        android:title="@string/chat"
+        android:icon="@drawable/ic_menu_chat"/>
+    <item
+        android:id="@+id/score"
+        android:title="@string/score"
+        android:icon="@drawable/ic_menu_score"/>
+</menu>
